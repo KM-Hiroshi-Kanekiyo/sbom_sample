@@ -1,0 +1,5 @@
+pydicom==2.3.0
+pynetdicom==2.0.2
+pywin32==306
+schedule==1.1.0
+watchdog==2.1.9
